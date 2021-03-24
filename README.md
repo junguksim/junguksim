@@ -27,3 +27,7 @@
   - **동국대학교 창업동아리 선정**
 - 삼성청년소프트웨어아카데미 **SSAFY** 5기 교육생 (2021.01 ~ )
 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=simju1001)](https://solved.ac/simju1001)
+
