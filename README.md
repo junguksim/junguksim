@@ -1,12 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunguksim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### :man_artist: Welcome!
 
-- I'm learning Back-End engineering with Node.js and Java.
-- Graduated Seoul National University of Science And Technology, Computer Science Major at 2021.
+- Node.js(NestJS)와 Java(Spring) 을 통한 백엔드 개발을 공부하고 있습니다.
+- 2021년에 서울과학기술대학교 컴퓨터공학과를 졸업했습니다.
 
 ### :computer: My Skill set is...
 
-- Language : Java / JavaScript / Python
+- Language : Java / JavaScript
 - Framework : Node.js / Express / NestJS / Spring / Spring Boot / Vue
 - Tool : Git / MySQL Workbench / Redis
 - Cloud : AWS
