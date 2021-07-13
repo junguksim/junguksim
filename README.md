@@ -30,4 +30,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=simju1001)](https://solved.ac/simju1001)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguksim&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junguksim&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
