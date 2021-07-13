@@ -25,10 +25,11 @@
   - 일정 및 대중교통 초개인화 스케쥴링 서비스 **얼리버디** 서버 개발(2020.01 ~ )
   - **2020 데이터바우처 지원사업 우선협약** 선정
   - **동국대학교 창업동아리 선정**
-- 삼성청년소프트웨어아카데미 **SSAFY** 5기 교육생 (2021.01 ~ )
+- 삼성청년소프트웨어아카데미 **SSAFY** 5기 교육생 (2021.01 ~ 2021.07)
 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=simju1001)](https://solved.ac/simju1001)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junguksim&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junguksim&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=junguksim&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
