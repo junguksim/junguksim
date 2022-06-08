@@ -3,3 +3,7 @@
 
 - 배움을 좋아하는 개발자, 심정욱입니다.
 - [Portfolio](https://glimmer-manatee-cd1.notion.site/Noah-f73ec5279a024681a02bf4aefc93a58e)
+
+
+### Contact
+- Email : simju9397@gmail.com
